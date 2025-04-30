@@ -1,0 +1,16 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "pricing": "Pricing",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "Homepage": {
+    "title": "Cute & Powerful Video Transcription & Translation",
+    "subtitle": "Effortlessly transcribe and translate your videos with our fun and easy-to-use tools.",
+    "cta_start": "Start Now",
+    "cta_upload": "Upload Your File"
+  }
+}
